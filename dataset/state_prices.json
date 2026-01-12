@@ -1,0 +1,98 @@
+{
+  "Bajra": {
+    "Maharashtra": 2600,
+    "Rajasthan": 2550,
+    "Gujarat": 2580,
+    "Haryana": 2620
+  },
+  "Barley": {
+    "Himachal Pradesh": 2350,
+    "Rajasthan": 2360,
+    "Uttarakhand": 2345
+  },
+  "Jowar": {
+    "Karnataka": 4800,
+    "Maharashtra": 4700,
+    "Telangana": 4750
+  },
+  "Maize": {
+    "Maharashtra": 1650,
+    "Karnataka": 1700,
+    "Andhra Pradesh": 1720
+  },
+  "Paddy (Common)": {
+    "West Bengal": 2550,
+    "Punjab": 2600,
+    "Odisha": 2575
+  },
+  "Ragi": {
+    "Karnataka": 5550,
+    "Tamil Nadu": 5500
+  },
+  "Wheat": {
+    "Punjab": 2630,
+    "Haryana": 2650,
+    "Uttar Pradesh": 2620
+  },
+  "Cotton": {
+    "Maharashtra": 7540,
+    "Gujarat": 7600,
+    "Telangana": 7510
+  },
+  "Copra": {
+    "Kerala": 19800,
+    "Tamil Nadu": 19750
+  },
+  "Groundnut": {
+    "Gujarat": 5850,
+    "Rajasthan": 5900
+  },
+  "Mustard": {
+    "Rajasthan": 6500,
+    "Haryana": 6550
+  },
+  "Sesamum": {
+    "Andhra Pradesh": 10050,
+    "Karnataka": 10100
+  },
+  "Soyabean": {
+    "Madhya Pradesh": 4700,
+    "Maharashtra": 4750
+  },
+  "Arhar": {
+    "Maharashtra": 6620,
+    "Karnataka": 6650
+  },
+  "Gram": {
+    "Rajasthan": 5620,
+    "Madhya Pradesh": 5650
+  },
+  "Urad": {
+    "Maharashtra": 6930,
+    "Karnataka": 6900
+  },
+  "Moong": {
+    "Maharashtra": 6790,
+    "Karnataka": 6800
+  },
+  "Masur": {
+    "Uttar Pradesh": 6860,
+    "Madhya Pradesh": 6870
+  },
+  "Safflower": {
+    "Maharashtra": 6775,
+    "Karnataka": 6800
+  },
+  "Onion": {
+    "Maharashtra": 1500,
+    "Karnataka": 1550
+  },
+  "Potato": {
+    "Uttar Pradesh": 780,
+    "West Bengal": 785
+  },
+  "Tomato": {
+    "Maharashtra": 3130,
+    "Karnataka": 3150
+  }
+}
